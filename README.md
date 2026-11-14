@@ -10,7 +10,7 @@
 
 Not a template. Not a tutorial copy.
 
-A travel blog I built to show Hunza Valley the way it actually looks — mountains, lakes, forts, bazaar, and real trip planning.
+But A travel blog I built to show Hunza Valley the way it actually looks — mountains, lakes, forts, bazaar, and real trip planning.
 
 ## WHAT YOU GET IN 30 SECONDS:
 
